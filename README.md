@@ -23,7 +23,7 @@ If you find anything else wrong, feel free to [let me know](https://github.com/m
 
 Credits
 ------
-Color scheme adopted from "One Monokai Theme" for VS Code by Joshua Azemoh.
+Color scheme adopted from [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark) for VS Code by Joshua Azemoh.
 
 
    
