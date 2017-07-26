@@ -7,7 +7,7 @@ Installation (per-machine)
 --------------------------
 
 1. Download [`One Monokai.xml`](https://raw.githubusercontent.com/mnmlize/npp-one-monokai-theme/master/One%20Monokai.xml)
-2. Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\themes
+2. Copy this file to `C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\themes`
 3. Restart Notepad++.
 4. Open *Settings->Style Configurator*.
 5. Select `One Monokai` from the theme drop-down box.
