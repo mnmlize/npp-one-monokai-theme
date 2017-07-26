@@ -6,7 +6,7 @@ Based on the popular Monokai theme and One Dark theme for VS Code, This is my se
 Installation (per-machine)
 --------------------------
 
-1. Download [`VS2012-Dark.xml`](https://raw.githubusercontent.com/mnmlize/npp-one-monokai-theme/master/One%20Monokai.xml)
+1. Download [`One Monokai.xml`](https://raw.githubusercontent.com/mnmlize/npp-one-monokai-theme/master/One%20Monokai.xml)
 2. Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\themes
 3. Restart Notepad++.
 4. Open *Settings->Style Configurator*.
