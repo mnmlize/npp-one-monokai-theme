@@ -13,6 +13,17 @@ Installation:
 Credits:
    Color scheme adopted from "One Monokai Theme" for VS Code by Joshua Azemoh.
 
+Colors
+	56b6c2 = labany
+	Background = 282C34
+	Comment Color = 646C7C
+	Orange = e5c07b
+	Green = 98C379
+	Red = E46972
+	Yellow = f6ff00
+	Purple = c678dd
+	Light Blue = ABB2BF
+	Almost White = e3e7f0
 //-->
 <NotepadPlus>
     <LexerStyles>
@@ -171,7 +182,7 @@ Credits:
         </LexerType>
         <LexerType name="php" desc="php" ext="">
             <WordsStyle name="QUESTION MARK" styleID="18" fgColor="B2C9D8" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" />
-            <WordsStyle name="DEFAULT" styleID="118" fgColor="9AC57B" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" />
+            <WordsStyle name="DEFAULT" styleID="118" fgColor="56b6c2" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" />
             <WordsStyle name="USER-DEFINED" styleID="16" fgColor="E46972" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" keywordClass="type1">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
             <WordsStyle name="STRING" styleID="119" fgColor="E5C07B" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" />
             <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="E5C07B" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" />
@@ -717,12 +728,12 @@ Credits:
             <WordsStyle name="NUMBER" styleID="14" fgColor="56B6C2" bgColor="282C34" fontName="" fontStyle="0" fontSize="11" />
         </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
-            <WordsStyle name="Search Header" styleID="1" fgColor="ffffff" bgColor="133f81" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="File Header" styleID="2" fgColor="ffffff" bgColor="5c8113" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="Line Number" styleID="3" fgColor="c678dd" bgColor="282C34" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="Hit Word" styleID="4" fgColor="f6ff00" bgColor="E46972" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="Selected Line" styleID="5" fgColor="9AC57B" bgColor="56b6c2" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
-            <WordsStyle name="Current line background colour" styleID="6" bgColor="3B404A" fgColor="eae984" fontSize="" fontStyle="0">bool long int char</WordsStyle>
+            <WordsStyle name="Search Header" styleID="1" fgColor="FFFFFF" bgColor="133F81" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="File Header" styleID="2" fgColor="FFFFFF" bgColor="5C8113" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="Line Number" styleID="3" fgColor="C678DD" bgColor="282C34" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Hit Word" styleID="4" fgColor="F6FF00" bgColor="E46972" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Selected Line" styleID="5" fgColor="9AC57B" bgColor="56B6C2" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="Current line background colour" styleID="6" bgColor="3B404A" fgColor="EAE984" fontSize="" fontStyle="0">bool long int char</WordsStyle>
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
