@@ -1,6 +1,4 @@
-# npp-one-monokai-theme
-
-One Monokai - v1.0
+# One Monokai - v1.0
 Copyright (c) 2017 Mohamed AbdelShakour, MNMLIZE - mo@mnmlize.com
 
 License: GPL V3
