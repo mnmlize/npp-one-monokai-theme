@@ -3,7 +3,7 @@ One Monokai Theme for Notepad++
 
 Based on the popular Monokai theme and One Dark theme for VS Code, This is my setup for wokring with HTML, PHP, JavaScript and CSS files, other languages have been tested.
 
-Installation (per-machine)
+Installation
 --------------------------
 
 1. Download [`One Monokai.xml`](https://raw.githubusercontent.com/mnmlize/npp-one-monokai-theme/master/One%20Monokai.xml)
