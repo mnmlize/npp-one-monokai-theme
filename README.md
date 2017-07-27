@@ -21,13 +21,10 @@ Screenshot
 ----------
 ![Screenshot](https://raw.githubusercontent.com/mnmlize/npp-one-monokai-theme/master/screenshot.png "Screenshot")
 
-Feedback
-------
-If you find anything else wrong, feel free to [let me know](https://github.com/mnmlize/npp-one-monokai-theme/issues/new).
-
-Credits
+Credits & Feedback
 ------
 Color scheme adopted from [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark) for VS Code by Joshua Azemoh.
+If you find anything wrong or not styled properly, feel free to [let me know](https://github.com/mnmlize/npp-one-monokai-theme/issues/new).
 
 
    
