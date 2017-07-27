@@ -6,24 +6,14 @@ Copyright (c) 2017 Mohamed AbdelShakour, MNMLIZE - mo@mnmlize.com
 
 License: GPL V3
 
-Installation:
-    Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\themes
-
+Installation (Windows):
+    1. Start -> Run -> Type [%APPDATA%/Notepad++]
+    2. Copy this file in 'themes' folder.
+    3. Restart Notepad++
 
 Credits:
    Color scheme adopted from "One Monokai Theme" for VS Code by Joshua Azemoh.
 
-Colors
-	56b6c2 = labany
-	Background = 282C34
-	Comment Color = 646C7C
-	Orange = e5c07b
-	Green = 98C379
-	Red = E46972
-	Yellow = f6ff00
-	Purple = c678dd
-	Light Blue = ABB2BF
-	Almost White = e3e7f0
 //-->
 <NotepadPlus>
     <LexerStyles>
