@@ -7,7 +7,11 @@ Copyright (c) 2017 Mohamed AbdelShakour, MNMLIZE - mo@mnmlize.com
 License: GPL V3
 
 Installation:
-    Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\themes
+  1. Start -> Run -> type %APPDATA%/Notepad++
+  2. Copy this file to themes folder then Restart Notepad++.
+  3. Open Settings->Style Configurator.
+  4. Select One Monokai from the theme drop-down box.
+  5. Click Save & Close
 
 
 Credits:
