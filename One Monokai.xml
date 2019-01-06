@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <!--//
 
-One Monokai - v1.0
-Copyright (c) 2017 Design Vanilla - mo@designvanilla.com
+One Monokai - v1.0.1
+Copyright (c) 2019 mnmlize - m@mnmlize.com
 
 License: GPL V3
 
 Installation:
   1. Start -> Run -> type %APPDATA%/Notepad++
+  2. Open Notepad++ -> Settings -> Import -> Import style theme
+- OR -
   2. Copy this file to themes folder then Restart Notepad++.
   3. Open Settings->Style Configurator.
   4. Select One Monokai from the theme drop-down box.
